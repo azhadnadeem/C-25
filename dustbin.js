@@ -2,7 +2,7 @@ class Dustbin extends parent{
     constructor(x,y){
        super(x,y,100,100)
 
-       this.image=loadImage("sprites/dustbingreen.png")
+       this.image=loadImage("dustbingreen.png")
         
        
     }
